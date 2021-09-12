@@ -4,7 +4,8 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
-    "start": "nodemon src/index.js"
+    "start": "node src/index.js",
+    "test": "echo \"Error:  No test specified.\" && exit 1"
   },
   "engines": {
     "yarn": "1.x",
