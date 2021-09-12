@@ -8,7 +8,6 @@
 //   })
 //   .listen(8080); //the server object listens on port 8080
 
-// const ShoppingList = require("./components/ShoppingList.js");
 const express = require("express");
 const app = express();
 const port = 8080;
